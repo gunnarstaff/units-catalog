@@ -143,7 +143,8 @@
       "metre per square second",
       "metre / s²",
       "Metre per Square Second",
-      "meter per SEC2"
+      "meter per SEC2",
+      "M PER S2"
     ],
     "symbol": "m/s²",
     "conversion": {
@@ -694,7 +695,8 @@
       "degree",
       "°",
       "DEG",
-      "Degree"
+      "Degree",
+      "DEGA"
     ],
     "symbol": "°",
     "conversion": {
@@ -933,7 +935,8 @@
       "Revolution per Minute",
       "rev / minute",
       "RPM",
-      "rpm"
+      "rpm",
+      "ROT PER MIN"
     ],
     "symbol": "rev/min",
     "conversion": {
@@ -1277,7 +1280,8 @@
       "Gram Per Cubic Metre",
       "Gram / M3",
       "Gram per cubic metre",
-      "Gram / m³"
+      "Gram / m³",
+      "G PER CM?"
     ],
     "symbol": "g/m³",
     "conversion": {
@@ -1401,7 +1405,9 @@
       "LB per GAL",
       "lb / gal",
       "lbm / GAL",
-      "Pound Mass per GAL"
+      "Pound Mass per GAL",
+      "LBM PER GAL",
+      "PPG"
     ],
     "symbol": "lb/gal",
     "conversion": {
@@ -1648,7 +1654,9 @@
       "UNITLESS",
       "一",
       "Unitless",
-      "unitless"
+      "unitless",
+      "EUC",
+      "TOTAL"
     ],
     "symbol": "",
     "conversion": {
@@ -2400,7 +2408,8 @@
       "ft LB_F",
       "ft ⋅ lbf",
       "Foot lbf",
-      "foot lbf"
+      "foot lbf",
+      "ft.lbf"
     ],
     "symbol": "ft⋅lbf",
     "conversion": {
@@ -3291,7 +3300,8 @@
       "klbf",
       "KiloLB_F",
       "kilopound force",
-      "KiloPound Force"
+      "KiloPound Force",
+      "KLBF"
     ],
     "symbol": "klbf",
     "conversion": {
@@ -3402,7 +3412,8 @@
     "aliasNames": [
       "Hz",
       "HZ",
-      "hertz"
+      "hertz",
+      "1 PER S"
     ],
     "symbol": "Hz",
     "conversion": {
@@ -3585,7 +3596,8 @@
       "1/min",
       "per min",
       "spm",
-      "SPM"
+      "SPM",
+      "1 PER MIN"
     ],
     "symbol": "/min",
     "conversion": {
@@ -4046,7 +4058,8 @@
       "TONNE",
       "Tonne",
       "t",
-      "tonne"
+      "tonne",
+      "T"
     ],
     "symbol": "t",
     "conversion": {
@@ -4096,7 +4109,8 @@
       "kg/m³",
       "kg/m3",
       "kg/Sm³",
-      "kg/Sm3"
+      "kg/Sm3",
+      "KG PER M3"
     ],
     "symbol": "kg/m³",
     "conversion": {
@@ -6028,7 +6042,8 @@
       "kilopound force per square inch",
       "KiloLB_F / in²",
       "kilopound force / Square Inch",
-      "KiloLB_F / Square Inch"
+      "KiloLB_F / Square Inch",
+      "KPSI"
     ],
     "symbol": "kpsi",
     "conversion": {
@@ -6090,7 +6105,8 @@
       "kilopascal",
       "KiloPA",
       "kPa",
-      "Kilopascal"
+      "Kilopascal",
+      "KPA"
     ],
     "symbol": "kPa",
     "conversion": {
@@ -7601,7 +7617,8 @@
     "aliasNames": [
       "second",
       "SEC",
-      "s"
+      "s",
+      "S"
     ],
     "symbol": "s",
     "conversion": {
@@ -7671,7 +7688,9 @@
       "pound force foot",
       "lbf ft",
       "LB_F FT",
-      "pound force FT"
+      "pound force FT",
+      "LBF.FT",
+      "LBF·FT"
     ],
     "symbol": "lbf⋅ft",
     "conversion": {
@@ -7730,7 +7749,9 @@
       "newton m",
       "N Meter",
       "N metre",
-      "newton metre"
+      "newton metre",
+      "N.M",
+      "NM"
     ],
     "symbol": "N⋅m",
     "conversion": {
@@ -8058,7 +8079,8 @@
       "M / hour",
       "M per hour",
       "M / Hour",
-      "m/h"
+      "m/h",
+      "M PER H"
     ],
     "symbol": "m/h",
     "conversion": {
@@ -8106,7 +8128,8 @@
       "metre / SEC",
       "M / second",
       "m / second",
-      "m/s"
+      "m/s",
+      "M PER S"
     ],
     "symbol": "m/s",
     "conversion": {
@@ -9364,7 +9387,9 @@
       "Litre per MIN",
       "Litre Per Minute",
       "Liter per Minute",
-      "litre per minute"
+      "litre per minute",
+      "LT PER MIN",
+      "LPM"
     ],
     "symbol": "L/min",
     "conversion": {
