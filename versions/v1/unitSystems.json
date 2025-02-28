@@ -187,6 +187,18 @@
         "unitExternalId": "attenuation:decib"
       },
       {
+        "name": "Radioactivity",
+        "unitExternalId": "radioactivity:bq"
+      },
+      {
+        "name": "Magnetic Field",
+        "unitExternalId": "magnetic_field:t"
+      },
+      {
+        "name": "Resistivity",
+        "unitExternalId": "resistivity:ohm-m"
+      },
+      {
         "name": "Areal Density",
         "unitExternalId": "areal_density:kilogm-per-m2"
       }
@@ -348,6 +360,18 @@
         "unitExternalId": "attenuation:decib"
       },
       {
+        "name": "Radioactivity",
+        "unitExternalId": "radioactivity:bq"
+      },
+      {
+        "name": "Magnetic Field",
+        "unitExternalId": "magnetic_field:t"
+      },
+      {
+        "name": "Resistivity",
+        "unitExternalId": "resistivity:ohm-m"
+      },
+      {
         "name": "Areal Density",
         "unitExternalId": "areal_density:kilogm-per-m2"
       }
@@ -439,6 +463,18 @@
       {
         "name": "Attenuation",
         "unitExternalId": "attenuation:decib"
+      },
+      {
+        "name": "Radioactivity",
+        "unitExternalId": "radioactivity:ci"
+      },
+      {
+        "name": "Magnetic Field",
+        "unitExternalId": "magnetic_field:gauss"
+      },
+      {
+        "name": "Resistivity",
+        "unitExternalId": "resistivity:ohm-ft"
       },
       {
         "name": "Areal Density",

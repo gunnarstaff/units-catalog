@@ -798,6 +798,25 @@
     "sourceReference": "https://qudt.org/vocab/unit/REV"
   },
   {
+    "externalId": "angle:kilorev",
+    "name": "KiloREV",
+    "quantity": "Angle",
+    "longName": "Kilo Revolution",
+    "aliasNames": [
+      "kilo revolution",
+      "krev",
+      "KiloRevolution",
+      "KREV"
+    ],
+    "symbol": "krev",
+    "conversion": {
+      "multiplier": 6283.18531,
+      "offset": 0.0
+    },
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/REV",
+    "sourceReference": null
+  },
+  {
     "externalId": "angular_acceleration:rev-per-sec2",
     "name": "REV-PER-SEC2",
     "quantity": "Angular Acceleration",
@@ -1336,6 +1355,24 @@
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-M3"
+  },
+  {
+    "externalId": "density:kilogm-per-l",
+    "name": "KiloGM-PER-L",
+    "quantity": "Density",
+    "longName": "kilogram per litre",
+    "aliasNames": [
+      "kilogram / Litre",
+      "kg/l",
+      "KG PER L"
+    ],
+    "symbol": "kg/L",
+    "conversion": {
+      "multiplier": 1000,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-L"
   },
   {
     "externalId": "density:lb-per-ft3",
@@ -3329,6 +3366,58 @@
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloN"
+  },
+  {
+    "externalId": "force:kilodan",
+    "name": "KiloDaN",
+    "quantity": "Force",
+    "longName": "Kilo decanewton",
+    "aliasNames": [
+      "KDAN",
+      "KiloDecN",
+      "kdaN"
+    ],
+    "symbol": "kdaN",
+    "conversion": {
+      "multiplier": 10000.0,
+      "offset": 0.0
+    },
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/KiloN",
+    "sourceReference": null
+  },
+  {
+    "externalId": "force:kilo_kilogm_f",
+    "name": "Kilo_KiloGM_F",
+    "quantity": "Force",
+    "longName": "Kilo Kilogram Force",
+    "aliasNames": [
+      "KKGF",
+      "kkgf"
+    ],
+    "symbol": "kkgf",
+    "conversion": {
+      "multiplier": 9806.65,
+      "offset": 0.0
+    },
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/KiloGM_F",
+    "sourceReference": null
+  },
+  {
+    "externalId": "force:kilogm_f",
+    "name": "KiloGM_F",
+    "quantity": "Force",
+    "longName": "Kilogram Force",
+    "aliasNames": [
+      "KGF",
+      "kgf"
+    ],
+    "symbol": "kgf",
+    "conversion": {
+      "multiplier": 9.80665,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/KiloGM_F"
   },
   {
     "externalId": "force:lb_f",
@@ -7701,6 +7790,26 @@
     "sourceReference": "https://qudt.org/vocab/unit/LB_F-FT"
   },
   {
+    "externalId": "torque:kilo_lb_f-ft",
+    "name": "Kilo_LB_F-FT",
+    "quantity": "Torque",
+    "longName": "Kilo Pound Force Foot",
+    "aliasNames": [
+      "Kilo Pound Force ft",
+      "kLB_F foot",
+      "KFT.LBF",
+      "KiloLB_F foot",
+      "KLB*FT"
+    ],
+    "symbol": "klbf⋅ft",
+    "conversion": {
+      "multiplier": 1355.81807,
+      "offset": 0.0
+    },
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/LB_F-FT",
+    "sourceReference": null
+  },
+  {
     "externalId": "torque:lb_f-in",
     "name": "LB_F-IN",
     "quantity": "Torque",
@@ -8029,6 +8138,23 @@
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KN"
+  },
+  {
+    "externalId": "velocity:ft-per-min",
+    "name": "FT-PER-MIN",
+    "quantity": "Velocity",
+    "longName": "Foot per Minute",
+    "aliasNames": [
+      "ft/min",
+      "FT PER MIN"
+    ],
+    "symbol": "ft/min",
+    "conversion": {
+      "multiplier": 0.00508,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/FT-PER-MIN"
   },
   {
     "externalId": "velocity:m-per-hr",
@@ -9755,6 +9881,25 @@
     "sourceReference": "https://qudt.org/vocab/unit/YD3-PER-DAY"
   },
   {
+    "externalId": "volume_flow_rate:gal_us-per-min",
+    "name": "GAL_US-PER-MIN",
+    "quantity": "Volume Flow Rate",
+    "longName": "US Gallon per Minute",
+    "aliasNames": [
+      "US Gallon per Minute",
+      "GAL_US-PER-MIN",
+      "galUS/min",
+      "GALUS PER MIN"
+    ],
+    "symbol": "gal{US}/min",
+    "conversion": {
+      "multiplier": 0.0000630902,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/GAL_US-PER-MIN"
+  },
+  {
     "externalId": "volume_flow_rate:yd3-per-hr",
     "name": "YD3-PER-HR",
     "quantity": "Volume Flow Rate",
@@ -10745,6 +10890,76 @@
     "sourceReference": "https://qudt.org/vocab/unit/RAD-PER-SEC"
   },
   {
+    "externalId": "torque:kilon-m",
+    "name": "KiloN-M",
+    "quantity": "Torque",
+    "longName": "Kilo Newton Meter",
+    "aliasNames": [
+      "KN.M", 
+      "KN.m",
+      "kilo newton meter"
+    ],
+    "symbol": "kN·m",
+    "conversion": {
+      "multiplier": 1000,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/KiloN-M"
+  },
+  {
+    "externalId": "radioactivity:bq",
+    "name": "BQ",
+    "quantity": "Radioactivity",
+    "longName": "Becquerel",
+    "aliasNames": [
+      "Bq", 
+      "BQ"
+    ],
+    "symbol": "Bq",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/BQ"
+  },
+  {
+    "externalId": "radioactivity:ci",
+    "name": "CI",
+    "quantity": "Radioactivity",
+    "longName": "Curie",
+    "aliasNames": [
+      "Ci", 
+      "CI"
+    ],
+    "symbol": "Ci",
+    "conversion": {
+      "multiplier": 37000000000.0,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/CI"
+  },
+  {
+    "externalId": "magnetic_field:t",
+    "name": "T",
+    "quantity": "Magnetic Field",
+    "longName": "Tesla",
+    "aliasNames": [
+      "T",
+      "Tesla",
+      "tesla"
+    ],
+    "symbol": "T",
+    "conversion": {
+      "multiplier": 1.0,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/T"
+  },
+  {
     "externalId": "areal_density:lb-per-ft2",
     "name": "LB-PER-FT2",
     "quantity": "Areal Density",
@@ -10777,6 +10992,77 @@
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-M2"
+  }, 
+  {
+    "externalId": "magnetic_field:gauss",
+    "name": "GAUSS",
+    "quantity": "Magnetic Field",
+    "longName": "Gauss",
+    "aliasNames": [
+      "gauss", 
+      "Gauss",
+      "G",
+      "g"
+    ],
+    "symbol": "Gs",
+    "conversion": {
+      "multiplier": 0.0001,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/GAUSS"
+  },
+  {
+    "externalId": "magnetic_field:nanot",
+    "name": "NanoT",
+    "quantity": "Magnetic Field",
+    "longName": "Nano Tesla",
+    "aliasNames": [
+      "NT", 
+      "nT"
+    ],
+    "symbol": "nT",
+    "conversion": {
+      "multiplier": 1e-09,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/NanoT"
+  },
+  {
+    "externalId": "resistivity:ohm-ft",
+    "name": "OHM-FT",
+    "quantity": "Resistivity",
+    "longName": "Ohm Foot",
+    "aliasNames": [
+      "OhmFt", 
+      "Ω·ft"
+    ],
+    "symbol": "Ω·ft",
+    "conversion": {
+      "multiplier": 0.3048,
+      "offset": 0.0
+    },
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/OHM-M",
+    "sourceReference": null
+  },
+  {
+    "externalId": "resistivity:ohm-m",
+    "name": "OHM-M",
+    "quantity": "Resistivity",
+    "longName": "Ohm Meter",
+    "aliasNames": [
+      "OhmM", 
+      "Ω·m",
+      "OHM.M"
+    ],
+    "symbol": "Ω·m",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/OHM-M"
   },
   {
     "externalId": "areal_density:lb-per-100-ft2",
