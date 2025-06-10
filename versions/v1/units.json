@@ -8551,9 +8551,10 @@
       "Kilo cubic foot",
       "Kilo FT3",
       "k.ft³",
-      "Kilo ft³"
+      "Kilo ft³",
+      "kft³"
     ],
-    "symbol": "k.ft³",
+    "symbol": "kft³",
     "conversion": {
       "multiplier": 28.316846592,
       "offset": 0.0
@@ -11286,7 +11287,7 @@
       "bbl/thousand cubic feet",
       "barrel/thousand cubic feet"
     ],
-    "symbol": "bbl/k.ft³",
+    "symbol": "bbl/kft³",
     "conversion": {
       "multiplier": 0.00561458333,
       "offset": 0.0
@@ -11595,7 +11596,7 @@
       "thousand cu ft/day/psi",
       "thousand cu.ft./day/psi"
     ],
-    "symbol": "k.ft³/(psi.d)",
+    "symbol": "kft³/(psi.d)",
     "conversion": {
       "multiplier": 0.000000047536,
       "offset": 0.0
