@@ -10,6 +10,50 @@ Each release should include the following types of changes when applicable:
 - `Fixed` for any bug fixes
 - `Security` in case of vulnerabilities
 
+## [0.1.22] - 2025-06-10
+### Added
+- Added new unit for quantity `Length`:
+  - One Sixty-Fourth of an Inch (¹⁄₆₄″)
+- Added new quantity `Gas Liquid Ratio` with the following units:
+  - Standard Cubic Meter (@15°C/101.325 kPa) per Standard Cubic Meter (@15°C/101.325 kPa) (Sm³/Sm³)
+  - Standard Cubic Feet per Stock Tank Barrel (scf/STB)
+- Added new quantity `Liquid Gas Ratio` with the following units:
+  - Standard Cubic Meter (@15°C, 101.325 kPa) per Standard Cubic Meter (@15°C, 101.325 kPa) (Sm³/Sm³)
+  - Stock Tank Barrel per Million Standard Cubic Feet (STB/MMscf)
+- Added new unit for quantity `Areal Density`:
+  - Gram Per Square Meter (g/m²)
+- Added new unit for quantity `Angle Per Length`:
+  - Degrees Per 30 Meters (deg/30m)
+- Added new unit for quantity `Volume Flow Rate`:
+  - Thousand Barrel (US) Per Day (kbbl/d)
+- Added new unit for quantity `Volume`:
+  - Thousand Barrel (US) (kbbl)
+- Added new units for quantity `Volume Fraction`:
+  - Cubic Foot Per Barrel (US) (ft³/bbl)
+  - Barrel (US) Per Barrel (US) (bbl/bbl)
+  - Barrel (US) Per Thousand Cubic Foot (bbl/kft³)
+  - Thousand Cubic Foot Per Barrel (US) (kft³/bbl)
+- Added new unit for quantity `Density`:
+  - Milligram per litre (mg/L)
+- Added new unit for quantity `Mass Concentration`:
+  - Milligram per litre (mg/L)
+- Added new quantity `Volume per time per pressure` with the following units:
+  - Cubic Meter per Pascal Second (m³/(Pa.s))
+  - (Barrel (US) Per Day) Per Psi (bbl/(psi.d))
+  - (Cubic Meter Per Day) Per Bar (m³/(bar.d))
+  - (Thousand Cubic Foot Per Day) Per Psi (kft³/(psi.d))
+  - (Cubic Foot Per Second) Per Psi (ft³/(psi.s))
+- Added new unit for quantity `Pressure`:
+  - Millibar(g) (mbar(g))
+- Added new unit for quantity `Power`:
+  - Mega British Thermal Unit (International Definition) per Day (MBtu{IT}/d)
+- Added new unit for quantity `Mass Flow Rate`:
+  - Pound per Day (lbm/d)
+
+### Changed
+- Updated symbols that used to be "k.ft³" to "kft³" for consistency
+- Added new aliases for existing units to improve matching and usability
+
 ## [0.1.21] - 2025-02-28
 ### Added
 - Added new units for quantity `Volume Flow Rate`:
