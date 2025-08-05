@@ -10,6 +10,19 @@ Each release should include the following types of changes when applicable:
 - `Fixed` for any bug fixes
 - `Security` in case of vulnerabilities
 
+## [0.1.23] - 2025-08-05
+### Added
+- Added new aliases for electric current units:
+  - Ampere (A): Added AAC, ADC
+  - Kiloampere (kA): Added kAAC, kADC
+  - Milliampere (mA): Added mAAC, mADC
+- Added new aliases for electric potential units:
+  - Kilovolt (kV): Added kVAC, kVDC
+  - Millivolt (mV): Added mVAC, mVDC
+
+### Fixed
+- Corrected conversion offset for pressure unit millibar(g) from 1.01325 to 1013.25
+
 ## [0.1.22] - 2025-06-10
 ### Added
 - Added new unit for quantity `Length`:
