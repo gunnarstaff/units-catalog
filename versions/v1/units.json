@@ -955,7 +955,8 @@
       "rev / minute",
       "RPM",
       "rpm",
-      "ROT PER MIN"
+      "ROT PER MIN",
+      "r/min: revolutions per minute"
     ],
     "symbol": "rev/min",
     "conversion": {
