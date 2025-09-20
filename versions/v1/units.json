@@ -8815,7 +8815,10 @@
       "STB/day",
       "STBD",
       "bbls/d",
-      "bbls/day"
+      "bbls/day",
+      "BBl/d",
+      "bbl./d",
+      "BBL/D"
     ],
     "symbol": "bbl/day",
     "conversion": {
