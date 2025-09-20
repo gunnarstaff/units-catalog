@@ -2293,6 +2293,27 @@
     "sourceReference": "https://qudt.org/vocab/unit/MegaV"
   },
   {
+    "externalId": "electric_potential:nanov",
+    "name": "NanoV",
+    "quantity": "Electric Potential",
+    "longName": "Nanovolt",
+    "aliasNames": [
+      "Nanovolt",
+      "NanoV",
+      "nanovolt",
+      "nV",
+      "nVAC",
+      "nVDC"
+    ],
+    "symbol": "nV",
+    "conversion": {
+      "multiplier": 1e-09,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/NanoV"
+  },
+  {
     "externalId": "electric_potential:microv",
     "name": "MicroV",
     "quantity": "Electric Potential",
