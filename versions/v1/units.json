@@ -7432,7 +7432,8 @@
       "Celsius",
       "degreesC",
       "DEG C:",
-      "degree Celsius"
+      "degree Celsius",
+      "celcius"
     ],
     "symbol": "°C",
     "conversion": {
