@@ -5870,7 +5870,9 @@
       "bara",
       "BARa",
       "bar(a)",
-      "bar a"
+      "bar a",
+      "Bara",
+      "Bar a"
     ],
     "symbol": "bar",
     "conversion": {
@@ -5895,7 +5897,10 @@
       "BarG",
       "Bar G",
       "bar_g",
-      "bar G"
+      "bar G",
+      "Bar g",
+      "barG",
+      "bar g"
     ],
     "symbol": "bar(g)",
     "conversion": {
@@ -6205,7 +6210,10 @@
       "KiloPA",
       "kPa",
       "Kilopascal",
-      "KPA"
+      "KPA",
+      "KPa",
+      "Kpa",
+      "kPA"
     ],
     "symbol": "kPa",
     "conversion": {
@@ -6368,7 +6376,10 @@
       "MilliBAR",
       "millibar",
       "mbar",
-      "Millibar"
+      "Millibar",
+      "mBar",
+      "mbar a",
+      "mbarA"
     ],
     "symbol": "mbar",
     "conversion": {
@@ -6389,7 +6400,10 @@
       "mmH2O",
       "millimeter of water column",
       "millimetre of water column",
-      "mmWC"
+      "mmWC",
+      "mmwg",
+      "mmwg: millimeters of water gauge",
+      "mmWG"
     ],
     "symbol": "mmH₂0",
     "conversion": {
@@ -6570,7 +6584,9 @@
       "psia",
       "psi(a)",
       "psi a",
-      "PSI"
+      "PSI",
+      "PSIA",
+      "Psi"
     ],
     "symbol": "psi",
     "conversion": {
@@ -6589,7 +6605,9 @@
       "psig",
       "psi(g)",
       "psi g",
-      "PSIg"
+      "PSIg",
+      "PSIG",
+      "Psig"
     ],
     "symbol": "psi(g)",
     "conversion": {
@@ -11384,7 +11402,8 @@
       "Millibar Gauge",
       "millibar gauge",
       "mbar gauge",
-      "Millibarg"
+      "Millibarg",
+      "mBarg"
     ],
     "symbol": "mbar(g)",
     "conversion": {
