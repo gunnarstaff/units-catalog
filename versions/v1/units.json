@@ -7626,7 +7626,10 @@
       "hr",
       "hours",
       "Hr",
-      "Hrs"
+      "Hrs",
+      "h",
+      "h: hour",
+      "HOURS"
     ],
     "symbol": "h",
     "conversion": {
@@ -7717,7 +7720,10 @@
       "second",
       "SEC",
       "s",
-      "S"
+      "S",
+      "sec",
+      "seconds",
+      "Sec"
     ],
     "symbol": "s",
     "conversion": {
