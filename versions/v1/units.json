@@ -955,7 +955,8 @@
       "rev / minute",
       "RPM",
       "rpm",
-      "ROT PER MIN"
+      "ROT PER MIN",
+      "r/min: revolutions per minute"
     ],
     "symbol": "rev/min",
     "conversion": {
@@ -1346,7 +1347,8 @@
       "kilogram per cubic metre",
       "KiloGM per M3",
       "KiloGM / M3",
-      "kilogram per M3"
+      "kilogram per M3",
+      "Kg/m3"
     ],
     "symbol": "kg/m³",
     "conversion": {
@@ -4209,7 +4211,8 @@
       "kg/m3",
       "kg/Sm³",
       "kg/Sm3",
-      "KG PER M3"
+      "KG PER M3",
+      "Kg/m3"
     ],
     "symbol": "kg/m³",
     "conversion": {
@@ -4350,7 +4353,10 @@
       "GM / second",
       "Gram per s",
       "Gram / SEC",
-      "gram per second"
+      "gram per second",
+      "g/s",
+      "g/s: gram per second",
+      "g/sec"
     ],
     "symbol": "g/s",
     "conversion": {
@@ -4430,7 +4436,9 @@
       "kilogram / hr",
       "kg per HR",
       "kg/hr",
-      "kg/h"
+      "kg/h",
+      "Kg/hr",
+      "Kg/h"
     ],
     "symbol": "kg/h",
     "conversion": {
@@ -5644,7 +5652,9 @@
       "Kilowatt",
       "kilowatt",
       "kW",
-      "KiloW"
+      "KiloW",
+      "kw",
+      "KW"
     ],
     "symbol": "kW",
     "conversion": {
