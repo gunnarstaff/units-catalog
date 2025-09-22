@@ -4350,7 +4350,10 @@
       "GM / second",
       "Gram per s",
       "Gram / SEC",
-      "gram per second"
+      "gram per second",
+      "g/s",
+      "g/s: gram per second",
+      "g/sec"
     ],
     "symbol": "g/s",
     "conversion": {
@@ -4430,7 +4433,9 @@
       "kilogram / hr",
       "kg per HR",
       "kg/hr",
-      "kg/h"
+      "kg/h",
+      "Kg/hr",
+      "Kg/h"
     ],
     "symbol": "kg/h",
     "conversion": {
