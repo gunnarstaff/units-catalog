@@ -8035,7 +8035,8 @@
       "Inch / second",
       "IN PER SEC",
       "IN per second",
-      "in per s"
+      "in per s",
+      "in/s"
     ],
     "symbol": "in/s",
     "conversion": {
@@ -8419,7 +8420,9 @@
       "mm / s",
       "millimeter / second",
       "millimeter / sec",
-      "millimeter / s"
+      "millimeter / s",
+      "mm/s",
+      "mm/s: millimetre per second"
     ],
     "symbol": "mm/s",
     "conversion": {
