@@ -5442,6 +5442,24 @@
     "sourceReference": "https://qudt.org/vocab/unit/HP"
   },
   {
+    "externalId": "power:gigaj-per-hr",
+    "name": "GigaJ-PER-HR",
+    "quantity": "Power",
+    "longName": "Giga Joule Per Hour",
+    "aliasNames": [
+      "GJ/h",
+      "GJ/hr",
+      "GJ/h: gigajoule per hour"
+    ],
+    "symbol": "GJ/h",
+    "conversion": {
+      "multiplier": 2.777777777777777777777777777777778E5,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/GigaJ-PER-HR"
+  },
+  {
     "externalId": "power:j-per-hr",
     "name": "J-PER-HR",
     "quantity": "Power",
@@ -5468,11 +5486,40 @@
     ],
     "symbol": "J/h",
     "conversion": {
-      "multiplier": 3600.0,
+      "multiplier": 2.777777777777777777777777777777778E-4,
       "offset": 0.0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/J-PER-HR"
+  },
+  {
+    "externalId": "power:j-per-min",
+    "name": "J-PER-MIN",
+    "quantity": "Power",
+    "longName": "Joule Per Minute",
+    "aliasNames": [
+      "J / min",
+      "joule per MIN",
+      "joule per min",
+      "J per min",
+      "joule / min",
+      "J / Min",
+      "Joule Per Minute",
+      "J PER MIN",
+      "J per MIN",
+      "joule per minute",
+      "joule / minute",
+      "J / MIN",
+      "J per minute",
+      "J/min: joule per minute"
+    ],
+    "symbol": "J/min",
+    "conversion": {
+      "multiplier": 1.666666666666666666666666666666667E-2,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/J-PER-MIN"
   },
   {
     "externalId": "power:j-per-sec",
