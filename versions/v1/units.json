@@ -3959,7 +3959,9 @@
       "milli-inch",
       "Milli-inch",
       "mil",
-      "MilliIN"
+      "MilliIN",
+      "mils",
+      "MILS"
     ],
     "symbol": "mil",
     "conversion": {
