@@ -8858,7 +8858,10 @@
       "STB/day",
       "STBD",
       "bbls/d",
-      "bbls/day"
+      "bbls/day",
+      "BBl/d",
+      "bbl./d",
+      "BBL/D"
     ],
     "symbol": "bbl/day",
     "conversion": {
@@ -9509,7 +9512,12 @@
       "litre per hour",
       "litre per hr",
       "L / hr",
-      "L / hour"
+      "L / hour",
+      "l/h: liter per hour",
+      "l/h",
+      "l/hr",
+      "L/hr",
+      "L/H"
     ],
     "symbol": "L/hr",
     "conversion": {
@@ -9569,7 +9577,10 @@
       "Liter per Minute",
       "litre per minute",
       "LT PER MIN",
-      "LPM"
+      "LPM",
+      "Ltr/m",
+      "l/min",
+      "l/min: litre per minute"
     ],
     "symbol": "L/min",
     "conversion": {
@@ -9617,7 +9628,8 @@
       "Liter per second",
       "litre / SEC",
       "liter / second",
-      "Liter Per Second"
+      "Liter Per Second",
+      "l/s: litre per second"
     ],
     "symbol": "L/s",
     "conversion": {
@@ -9665,7 +9677,11 @@
       "cubic meter / day",
       "M3 per Day",
       "m³ / Day",
-      "Cubic Meter / DAY"
+      "Cubic Meter / DAY",
+      "m3/d",
+      "m³/d:",
+      "M3/D",
+      "m3/D"
     ],
     "symbol": "m³/day",
     "conversion": {
@@ -9734,7 +9750,11 @@
       "Sm³/hour",
       "m3/h",
       "m3/hr",
-      "m3/hour"
+      "m3/hour",
+      "M3/H",
+      "M3/h",
+      "m^3/h",
+      "m3/t"
     ],
     "symbol": "m³/h",
     "conversion": {
@@ -9792,7 +9812,8 @@
       "Cubic Meter / minute",
       "cubic metre per MIN",
       "Cubic Meter Per Minute",
-      "cubic metre / Minute"
+      "cubic metre / Minute",
+      "m3/min"
     ],
     "symbol": "m³/min",
     "conversion": {
@@ -10806,7 +10827,10 @@
       "Litre per D",
       "Litre Per Day",
       "Liter per Day",
-      "litre per day"
+      "litre per day",
+      "l/d: litre per day",
+      "L/D",
+      "l/d"
     ],
     "symbol": "L/day",
     "conversion": {
