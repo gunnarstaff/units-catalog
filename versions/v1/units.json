@@ -5649,7 +5649,9 @@
       "Kilowatt",
       "kilowatt",
       "kW",
-      "KiloW"
+      "KiloW",
+      "kw",
+      "KW"
     ],
     "symbol": "kW",
     "conversion": {
