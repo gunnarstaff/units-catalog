@@ -955,7 +955,8 @@
       "rev / minute",
       "RPM",
       "rpm",
-      "ROT PER MIN"
+      "ROT PER MIN",
+      "r/min: revolutions per minute"
     ],
     "symbol": "rev/min",
     "conversion": {
@@ -1346,7 +1347,8 @@
       "kilogram per cubic metre",
       "KiloGM per M3",
       "KiloGM / M3",
-      "kilogram per M3"
+      "kilogram per M3",
+      "Kg/m3"
     ],
     "symbol": "kg/m³",
     "conversion": {
@@ -4209,7 +4211,8 @@
       "kg/m3",
       "kg/Sm³",
       "kg/Sm3",
-      "KG PER M3"
+      "KG PER M3",
+      "Kg/m3"
     ],
     "symbol": "kg/m³",
     "conversion": {
