@@ -8639,7 +8639,10 @@
       "liter",
       "litre",
       "L",
-      "Litre"
+      "Litre",
+      "l",
+      "l: litre",
+      "Litres"
     ],
     "symbol": "L",
     "conversion": {
@@ -8661,7 +8664,8 @@
       "cubic metre",
       "Cubic Meter",
       "Sm3",
-      "Sm³"
+      "Sm³",
+      "m3"
     ],
     "symbol": "m³",
     "conversion": {
@@ -8758,7 +8762,8 @@
       "Millilitre",
       "millilitre",
       "mL",
-      "MilliL"
+      "MilliL",
+      "ml"
     ],
     "symbol": "mL",
     "conversion": {
