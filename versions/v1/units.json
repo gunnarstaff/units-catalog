@@ -955,7 +955,8 @@
       "rev / minute",
       "RPM",
       "rpm",
-      "ROT PER MIN"
+      "ROT PER MIN",
+      "r/min: revolutions per minute"
     ],
     "symbol": "rev/min",
     "conversion": {
@@ -1346,7 +1347,8 @@
       "kilogram per cubic metre",
       "KiloGM per M3",
       "KiloGM / M3",
-      "kilogram per M3"
+      "kilogram per M3",
+      "Kg/m3"
     ],
     "symbol": "kg/m³",
     "conversion": {
@@ -2291,6 +2293,27 @@
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaV"
+  },
+  {
+    "externalId": "electric_potential:nanov",
+    "name": "NanoV",
+    "quantity": "Electric Potential",
+    "longName": "Nanovolt",
+    "aliasNames": [
+      "Nanovolt",
+      "NanoV",
+      "nanovolt",
+      "nV",
+      "nVAC",
+      "nVDC"
+    ],
+    "symbol": "nV",
+    "conversion": {
+      "multiplier": 1e-09,
+      "offset": 0.0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/NanoV"
   },
   {
     "externalId": "electric_potential:microv",
@@ -4211,7 +4234,8 @@
       "kg/m3",
       "kg/Sm³",
       "kg/Sm3",
-      "KG PER M3"
+      "KG PER M3",
+      "Kg/m3"
     ],
     "symbol": "kg/m³",
     "conversion": {
@@ -4352,7 +4376,10 @@
       "GM / second",
       "Gram per s",
       "Gram / SEC",
-      "gram per second"
+      "gram per second",
+      "g/s",
+      "g/s: gram per second",
+      "g/sec"
     ],
     "symbol": "g/s",
     "conversion": {
@@ -4432,7 +4459,9 @@
       "kilogram / hr",
       "kg per HR",
       "kg/hr",
-      "kg/h"
+      "kg/h",
+      "Kg/hr",
+      "Kg/h"
     ],
     "symbol": "kg/h",
     "conversion": {
@@ -5646,7 +5675,9 @@
       "Kilowatt",
       "kilowatt",
       "kW",
-      "KiloW"
+      "KiloW",
+      "kw",
+      "KW"
     ],
     "symbol": "kW",
     "conversion": {
@@ -5872,7 +5903,9 @@
       "bara",
       "BARa",
       "bar(a)",
-      "bar a"
+      "bar a",
+      "Bara",
+      "Bar a"
     ],
     "symbol": "bar",
     "conversion": {
@@ -5897,7 +5930,10 @@
       "BarG",
       "Bar G",
       "bar_g",
-      "bar G"
+      "bar G",
+      "Bar g",
+      "barG",
+      "bar g"
     ],
     "symbol": "bar(g)",
     "conversion": {
@@ -6207,7 +6243,10 @@
       "KiloPA",
       "kPa",
       "Kilopascal",
-      "KPA"
+      "KPA",
+      "KPa",
+      "Kpa",
+      "kPA"
     ],
     "symbol": "kPa",
     "conversion": {
@@ -6370,7 +6409,10 @@
       "MilliBAR",
       "millibar",
       "mbar",
-      "Millibar"
+      "Millibar",
+      "mBar",
+      "mbar a",
+      "mbarA"
     ],
     "symbol": "mbar",
     "conversion": {
@@ -6391,7 +6433,10 @@
       "mmH2O",
       "millimeter of water column",
       "millimetre of water column",
-      "mmWC"
+      "mmWC",
+      "mmwg",
+      "mmwg: millimeters of water gauge",
+      "mmWG"
     ],
     "symbol": "mmH₂0",
     "conversion": {
@@ -6572,7 +6617,9 @@
       "psia",
       "psi(a)",
       "psi a",
-      "PSI"
+      "PSI",
+      "PSIA",
+      "Psi"
     ],
     "symbol": "psi",
     "conversion": {
@@ -6591,7 +6638,9 @@
       "psig",
       "psi(g)",
       "psi g",
-      "PSIg"
+      "PSIg",
+      "PSIG",
+      "Psig"
     ],
     "symbol": "psi(g)",
     "conversion": {
@@ -7434,7 +7483,8 @@
       "Celsius",
       "degreesC",
       "DEG C:",
-      "degree Celsius"
+      "degree Celsius",
+      "celcius"
     ],
     "symbol": "°C",
     "conversion": {
@@ -7628,7 +7678,10 @@
       "hr",
       "hours",
       "Hr",
-      "Hrs"
+      "Hrs",
+      "h",
+      "h: hour",
+      "HOURS"
     ],
     "symbol": "h",
     "conversion": {
@@ -7719,7 +7772,10 @@
       "second",
       "SEC",
       "s",
-      "S"
+      "S",
+      "sec",
+      "seconds",
+      "Sec"
     ],
     "symbol": "s",
     "conversion": {
@@ -8002,7 +8058,8 @@
       "Inch / second",
       "IN PER SEC",
       "IN per second",
-      "in per s"
+      "in per s",
+      "in/s"
     ],
     "symbol": "in/s",
     "conversion": {
@@ -8386,7 +8443,9 @@
       "mm / s",
       "millimeter / second",
       "millimeter / sec",
-      "millimeter / s"
+      "millimeter / s",
+      "mm/s",
+      "mm/s: millimetre per second"
     ],
     "symbol": "mm/s",
     "conversion": {
@@ -8603,7 +8662,10 @@
       "liter",
       "litre",
       "L",
-      "Litre"
+      "Litre",
+      "l",
+      "l: litre",
+      "Litres"
     ],
     "symbol": "L",
     "conversion": {
@@ -8625,7 +8687,8 @@
       "cubic metre",
       "Cubic Meter",
       "Sm3",
-      "Sm³"
+      "Sm³",
+      "m3"
     ],
     "symbol": "m³",
     "conversion": {
@@ -8722,7 +8785,8 @@
       "Millilitre",
       "millilitre",
       "mL",
-      "MilliL"
+      "MilliL",
+      "ml"
     ],
     "symbol": "mL",
     "conversion": {
@@ -8817,7 +8881,10 @@
       "STB/day",
       "STBD",
       "bbls/d",
-      "bbls/day"
+      "bbls/day",
+      "BBl/d",
+      "bbl./d",
+      "BBL/D"
     ],
     "symbol": "bbl/day",
     "conversion": {
@@ -9468,7 +9535,12 @@
       "litre per hour",
       "litre per hr",
       "L / hr",
-      "L / hour"
+      "L / hour",
+      "l/h: liter per hour",
+      "l/h",
+      "l/hr",
+      "L/hr",
+      "L/H"
     ],
     "symbol": "L/hr",
     "conversion": {
@@ -9528,7 +9600,10 @@
       "Liter per Minute",
       "litre per minute",
       "LT PER MIN",
-      "LPM"
+      "LPM",
+      "Ltr/m",
+      "l/min",
+      "l/min: litre per minute"
     ],
     "symbol": "L/min",
     "conversion": {
@@ -9576,7 +9651,8 @@
       "Liter per second",
       "litre / SEC",
       "liter / second",
-      "Liter Per Second"
+      "Liter Per Second",
+      "l/s: litre per second"
     ],
     "symbol": "L/s",
     "conversion": {
@@ -9624,7 +9700,11 @@
       "cubic meter / day",
       "M3 per Day",
       "m³ / Day",
-      "Cubic Meter / DAY"
+      "Cubic Meter / DAY",
+      "m3/d",
+      "m³/d:",
+      "M3/D",
+      "m3/D"
     ],
     "symbol": "m³/day",
     "conversion": {
@@ -9693,7 +9773,11 @@
       "Sm³/hour",
       "m3/h",
       "m3/hr",
-      "m3/hour"
+      "m3/hour",
+      "M3/H",
+      "M3/h",
+      "m^3/h",
+      "m3/t"
     ],
     "symbol": "m³/h",
     "conversion": {
@@ -9751,7 +9835,8 @@
       "Cubic Meter / minute",
       "cubic metre per MIN",
       "Cubic Meter Per Minute",
-      "cubic metre / Minute"
+      "cubic metre / Minute",
+      "m3/min"
     ],
     "symbol": "m³/min",
     "conversion": {
@@ -10765,7 +10850,10 @@
       "Litre per D",
       "Litre Per Day",
       "Liter per Day",
-      "litre per day"
+      "litre per day",
+      "l/d: litre per day",
+      "L/D",
+      "l/d"
     ],
     "symbol": "L/day",
     "conversion": {
@@ -11386,7 +11474,8 @@
       "Millibar Gauge",
       "millibar gauge",
       "mbar gauge",
-      "Millibarg"
+      "Millibarg",
+      "mBarg"
     ],
     "symbol": "mbar(g)",
     "conversion": {
